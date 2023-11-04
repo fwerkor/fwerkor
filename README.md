@@ -1,16 +1,16 @@
-### Hi there 👋
+### FWERKOR
 
-<!--
-**fwerkor/fwerkor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fwerkor&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
+As the last ship sailed towards the distant horizon,
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I sat there watching on a rock,
+
+my mind slowly drifting away,
+
+forming into my dreamtale.
+
+
+## I'm Castronaut, a humble senior high student in china.
+Coding is my part-time hobby.
+If interested, take a look at my CapOS project!
