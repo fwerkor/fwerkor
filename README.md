@@ -11,6 +11,6 @@ my mind slowly drifting away,
 forming into my dreamtale.
 
 
-## I'm Castronaut, a humble senior high student in china.
+## I'm Castronaut, a senior high student in china.
 Coding is my part-time hobby.
-If interested, take a look at my CapOS project!
+If interested, take a look at my [CapOS](https://capos.fwerkor.com) project!
