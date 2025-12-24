@@ -1,7 +1,5 @@
 ### FWERKOR
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fwerkor&show_icons=true&theme=radical)
-
 As the last ship sailed towards the distant horizon,
 
 I sat there watching on a rock,
