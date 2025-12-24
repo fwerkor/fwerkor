@@ -12,3 +12,5 @@ forming into my dreamtale.
 ## I'm Castronaut, a student in china.
 Coding is my part-time hobby.
 If interested, take a look at my [CapOS](https://capos.fwerkor.com) project!
+
+![Metrics](/github-metrics.svg)
