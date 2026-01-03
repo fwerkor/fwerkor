@@ -37,5 +37,4 @@ jobs:
           plugin_pagespeed_detailed: true
           plugin_pagespeed_screenshot: true
 
-          plugin_activity: true
 
