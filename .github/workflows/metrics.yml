@@ -15,7 +15,7 @@ jobs:
       contents: write
     steps:
       - name: user
-        uses: lowlighter/metrics@latest
+        uses: fwerkor/my_readme_metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: fwerkor
