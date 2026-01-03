@@ -18,5 +18,5 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: fwerkor
-          template: repository
+          template: classic
           plugins: isocalendar, languages, stars, followers  # 选择需要的插件
