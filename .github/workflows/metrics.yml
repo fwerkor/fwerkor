@@ -32,7 +32,7 @@ jobs:
           plugin_stargazers: true
 
           plugin_pagespeed: true
-          plugin_pagespeed_url: "https://blog.fwerkor.com"
+          plugin_pagespeed_url: "https://www.fwerkor.com"
           plugin_pagespeed_token: ${{ secrets.GOOGLEPAGESPEED_TOKEN }}
           plugin_pagespeed_detailed: true
           plugin_pagespeed_screenshot: true
