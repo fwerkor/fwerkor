@@ -20,7 +20,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: fwerkor
           template: classic
-          config_display: large
 
           plugin_rss: true
           plugin_rss_source: https://blog.fwerkor.com/feed
@@ -34,5 +33,10 @@ jobs:
 
           plugin_pagespeed: true
           plugin_pagespeed_url: "https://blog.fwerkor.com"
+          plugin_pagespeed_token: ${{ secrets.GOOGLEPAGESPEED_TOKEN }}
           plugin_pagespeed_detailed: true
           plugin_pagespeed_screenshot: true
+
+          plugin_activity: true
+
+          plugin_starlists: true
