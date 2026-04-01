@@ -61,8 +61,8 @@
 
 - [`capos`](https://github.com/fwerkor/capos)  
   Open-source server operating system with a friendlier web desktop and app ecosystem.
-- [`capp-helloworld`](https://github.com/fwerkor/capp-helloworld)  
-  A minimal example for building and packaging CapOS applications.
+- [`write4print`](https://github.com/fwerkor/write4print)  
+  A tool which can convert handwriting PDFs into a printable version.
 - `lm-sv`  
   Tooling for stress-testing deep learning frameworks with generalized mutations.
 
@@ -84,6 +84,4 @@
   <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
 </p>
 
-<p align="center">
-  <sub>Updated automatically by GitHub Actions, so you do not need to maintain it by hand.</sub>
-</p>
+
