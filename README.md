@@ -61,10 +61,10 @@
 
 - [`capos`](https://github.com/fwerkor/capos)  
   Open-source server operating system with a friendlier web desktop and app ecosystem.
+- `lm-sv`  
+  Tooling for stress-testing deep learning frameworks like MindSpore with generalized mutations.
 - [`write4print`](https://github.com/fwerkor/write4print)  
   A tool which can convert handwriting PDFs into a printable version.
-- `lm-sv`  
-  Tooling for stress-testing deep learning frameworks with generalized mutations.
 
 ### Reach Out / 联系方式
 
