@@ -64,7 +64,7 @@
 - `lm-sv`  
   Tooling for stress-testing deep learning frameworks like MindSpore with generalized mutations.
 - [`argosfs`](https://github.com/fwerkor/argosfs)
-  A self-driving, erasure-coded Linux filesystem with FUSE, repair tooling, and health autopilot.
+  A self-driving, erasure-coded multidisk Linux filesystem with FUSE, repair tooling, and health autopilot.
 - [`write4print`](https://github.com/fwerkor/write4print)  
   A tool which can convert handwriting PDFs into a printable version.
 - [`qorvexus`](https://github.com/fwerkor/qorvexus)
