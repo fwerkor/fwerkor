@@ -63,8 +63,12 @@
   Open-source server operating system with a friendlier web desktop and app ecosystem.
 - `lm-sv`  
   Tooling for stress-testing deep learning frameworks like MindSpore with generalized mutations.
+- [`argosfs`](https://github.com/fwerkor/argosfs)
+  A self-driving, erasure-coded Linux filesystem with FUSE, repair tooling, and health autopilot.
 - [`write4print`](https://github.com/fwerkor/write4print)  
   A tool which can convert handwriting PDFs into a printable version.
+- [`qorvexus`](https://github.com/fwerkor/qorvexus)
+  An always-on Go agent platform with tools, memory, social channels, and a built-in control panel.
 
 ### Reach Out / 联系方式
 
@@ -83,5 +87,3 @@
 <p align="center">
   <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
 </p>
-
-
