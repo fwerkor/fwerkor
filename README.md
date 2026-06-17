@@ -63,7 +63,7 @@
   Open-source server operating system with a friendlier web desktop and app ecosystem.
   
 - [`local-shell-mcp`](https://github.com/fwerkor/local-shell-mcp)
-  A remote-capable MCP shell workspace for persistent coding agents, browser automation, file operations, and developer workflows.
+  A remote-capable MCP shell workspace for persistent coding agents and developer workflows.
   
 - `lm-sv`
   Tooling for stress-testing deep learning frameworks like MindSpore with generalized mutations.
