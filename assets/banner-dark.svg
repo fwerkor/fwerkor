@@ -56,7 +56,7 @@
   <circle cx="1106" cy="120" r="2.5" fill="#34D399"/>
   <path d="M930 94L972 78L1012 106L1068 90L1106 120" stroke="#94A3B8" stroke-opacity="0.5" stroke-width="1.4"/>
 
-  <text x="76" y="82" fill="#93C5FD" font-family="Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="17" letter-spacing="1.5">$ whoami</text>
+  <text x="76" y="62" fill="#93C5FD" font-family="Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="17" letter-spacing="1.5">$ whoami</text>
   <text x="76" y="146" fill="#F8FAFC" font-family="'Trebuchet MS', 'Segoe UI', sans-serif" font-size="96" font-weight="700" letter-spacing="4">FWERKOR</text>
   <text x="80" y="188" fill="#34D399" font-family="Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="34" letter-spacing="2.4">CASTRONAUT</text>
 
