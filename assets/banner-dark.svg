@@ -1,6 +1,6 @@
 <svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">FWERKOR profile banner</title>
-  <desc id="desc">A mobile-friendly dark themed GitHub profile banner for FWERKOR.</desc>
+  <desc id="desc">A mobile-friendly dark themed GitHub profile banner for FWERKOR with a Libra constellation accent.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
       <stop stop-color="#07111E"/>
@@ -49,12 +49,12 @@
   <circle cx="910" cy="142" r="70" fill="#22D3EE" fill-opacity="0.18" filter="url(#blurA)"/>
   <circle cx="1048" cy="232" r="54" fill="#34D399" fill-opacity="0.16" filter="url(#blurB)"/>
 
-  <circle cx="930" cy="94" r="3" fill="#E2E8F0"/>
-  <circle cx="972" cy="78" r="2.5" fill="#7DD3FC"/>
-  <circle cx="1012" cy="106" r="2.5" fill="#A5F3FC"/>
-  <circle cx="1068" cy="90" r="3" fill="#F8FAFC"/>
-  <circle cx="1106" cy="120" r="2.5" fill="#34D399"/>
-  <path d="M930 94L972 78L1012 106L1068 90L1106 120" stroke="#94A3B8" stroke-opacity="0.5" stroke-width="1.4"/>
+  <circle cx="930" cy="100" r="2.5" fill="#E2E8F0"/>
+  <circle cx="979" cy="92" r="2.5" fill="#7DD3FC"/>
+  <circle cx="1027" cy="72" r="3" fill="#A5F3FC"/>
+  <circle cx="1100" cy="97" r="3" fill="#F8FAFC"/>
+  <circle cx="1065" cy="132" r="2.5" fill="#34D399"/>
+  <path d="M930 100L979 92L1027 72L1100 97L1065 132L979 92" stroke="#94A3B8" stroke-opacity="0.5" stroke-width="1.4"/>
 
   <text x="76" y="62" fill="#93C5FD" font-family="Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="17" letter-spacing="1.5">$ whoami</text>
   <text x="76" y="146" fill="#F8FAFC" font-family="'Trebuchet MS', 'Segoe UI', sans-serif" font-size="96" font-weight="700" letter-spacing="4">FWERKOR</text>
