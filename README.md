@@ -12,6 +12,9 @@
   <a href="https://blog.fwerkor.com">
     <img src="https://img.shields.io/badge/Blog-dreamtales%20%26%20notes-1f2937?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog" />
   </a>
+  <a href="https://orcid.org/0009-0004-0317-2729">
+    <img src="https://img.shields.io/badge/ORCID-0009--0004--0317--2729-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
+  </a>
   <a href="https://www.youtube.com/@fwerkor">
     <img src="https://img.shields.io/badge/YouTube-@fwerkor-cc0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
