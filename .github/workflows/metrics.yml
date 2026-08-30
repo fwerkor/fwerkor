@@ -12,7 +12,7 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    environment: 
+    environment:
       name: production
     permissions:
       contents: write
@@ -33,3 +33,12 @@ jobs:
           plugin_stargazers: true
           plugin_calendar: true
           plugin_calendar_limit: 5
+
+      - name: Trigger homepage sync
+        env:
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        run: >-
+          gh api
+          --method POST
+          repos/fwerkor/fwerkor.github.io/dispatches
+          -f event_type=profile-updated
